@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
-  cout << "Hello World!";
+  cout << "i'm poliban";
+  cout << "i'm programmer";
   return 0;
 }
